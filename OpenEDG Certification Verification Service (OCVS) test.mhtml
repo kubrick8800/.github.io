@@ -83,7 +83,7 @@ edube.org/assets/images/open_edg_logo.png" height=3D"50">
                             <div class=3D"col col-xs-12 text-center">
                                 <div class=3D"header__title">
                                     <h2><span class=3D"header__title--prima=
-ry">Verify</span> <span class=3D"header__title--secondary">Certificate</spa=
+ry">Verified</span> <span class=3D"header__title--secondary">Certificate</spa=
 n></h2>
                                 </div>
                                 <p class=3D"header__description">
@@ -146,7 +146,7 @@ ve</span>            </div>
         <div class=3D"row">
             <div class=3D"col col-xs-12 text-center">
                                     <input type=3D"button" id=3D"btn-downlo=
-ad" value=3D"Download" data-url=3D"https://drive.google.com/file/d/1KwNaccQ6ENIefCKzmdZRlvlKA4Niwl0I/view?usp=sharing">
+ad" value=3D"Well done" data-url=3D"https://drive.google.com/file/d/1KwNaccQ6ENIefCKzmdZRlvlKA4Niwl0I/view?usp=sharing">
                             </div>
         </div>
     </div>
